@@ -1,0 +1,5 @@
+Explain the trade-off between latency and throughput when serving large language models.
+Summarise speculative decoding in one paragraph.
+List three factors that drive the cost of an LLM API.
+What is the difference between TTFT and TPOT for streaming inference?
+When would a platform team choose self-hosting over a managed API?
