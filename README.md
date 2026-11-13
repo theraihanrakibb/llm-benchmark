@@ -1,6 +1,6 @@
-# llm-bench
+# llm-benchmark
 
-[![build](https://github.com/theraihanrakibb/llm-bench/actions/workflows/ci.yml/badge.svg)](https://github.com/theraihanrakibb/llm-bench/actions/workflows/ci.yml)
+[![build](https://github.com/theraihanrakibb/llm-benchmark/actions/workflows/ci.yml/badge.svg)](https://github.com/theraihanrakibb/llm-benchmark/actions/workflows/ci.yml)
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![python](https://img.shields.io/badge/python-3.11-3776AB.svg)](https://www.python.org/)
 
